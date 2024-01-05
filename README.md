@@ -15,4 +15,7 @@ gio open index.html
 
 https://github.com/terroo/gentoo-jump-game/assets/41500739/3afbec67-ef94-4f99-a2bd-7f9d9eec83db
 
-access the site: <https://terroo.github.io/>
+---
+
+# WebSite Gentoo Course: 
+## <https://terminalroot.com.br/gentoo>
