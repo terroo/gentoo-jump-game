@@ -12,8 +12,7 @@ gio open index.html
 ---
 
 # Preview
-<video width="964" height="392" style="border:2px solid #554477;" controls>
-  <source src="./gentoo-game.mp4" type="video/mp4">
-</video>
+
+https://github.com/terroo/gentoo-jump-game/assets/41500739/3afbec67-ef94-4f99-a2bd-7f9d9eec83db
 
 access the site: <https://terroo.github.io/>
